@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who
 | Name | Tech Stack | Live Demo |
 |------|-----------|-----------|
 | **Your-Cart...** | React, Tailwind, Vite, Nodejs, Mongodb | [Visit](https://your-cart-frontend.vercel.app/) |
-| **THE BIKE SHOP** | React, Tailwind, Vite | [Visit]https://the-bike-shop-alpha.vercel.app/() |
+| **THE BIKE SHOP** | React, Tailwind, Vite | [Visit](https://the-bike-shop-alpha.vercel.app/) |
 | **Travel with Us**| HTML, Bootstraph, JavaScript | [Visit](https://nitish1977.github.io/Travel-And-Tourism-Website/) |
 
 ---
