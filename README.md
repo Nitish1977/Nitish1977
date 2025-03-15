@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who
 ## 📂 **Projects**
 | Name | Tech Stack | Live Demo |
 |------|-----------|-----------|
-| **THE BIKE SHOP** | React, Tailwind, Vite | [Visit](https://the-bike-shop.vercel.app/) |
+| **THE BIKE SHOP** | React, Tailwind, Vite | [Visit](https://the-bike-shop-1hqwgesfc-nitish-kumars-projects-3852060f.vercel.app/) |
 
 ---
 
