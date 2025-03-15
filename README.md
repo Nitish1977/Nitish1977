@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🚴‍♂️ Hi, I'm Nitish Kumar! 👋 
 
-<!--
-**Nitish1977/Nitish1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who loves coding, problem-solving, and building amazing web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 **About Me**
+- 💻 I work on **MERN, PHP, and Vite-based projects**.
+- 🛠️ Currently building **THE BIKE SHOP** & other exciting projects.
+- 🌱 Learning **Next.js, AI integrations, and DevOps**.
+- 📫 How to reach me: **[Your Email Here]** | **[LinkedIn Profile]**.
+
+---
+
+## 🏆 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish1977&theme=tokyonight" />
+</p>
+
+---
+
+## 📂 **Projects**
+| Name | Tech Stack | Live Demo |
+|------|-----------|-----------|
+| **THE BIKE SHOP** | React, Tailwind, Vite | [Visit](https://the-bike-shop.vercel.app/) |
+
+---
+
+## 🚀 **Tech Stack**
+![React](https://img.shields.io/badge/Frontend-React-blue) ![Tailwind CSS](https://img.shields.io/badge/Styling-TailwindCSS-blue) ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+
+---
+
+## 📫 **Let's Connect!**
+- 🌍 **Portfolio:** [Your Portfolio Link]
+- 🐦 **Twitter:** [Your Twitter Link]
+- 📷 **Instagram:** [Your Instagram Link]
+- 💼 **LinkedIn:** [Your LinkedIn Profile]
