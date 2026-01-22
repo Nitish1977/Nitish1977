@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who
 - 💻 I work on **MERN, PHP, and Vite-based projects**.
 - 🛠️ Currently building **THE BIKE SHOP** & other exciting projects.
 - 🌱 Learning **Next.js, AI integrations, and DevOps**.
-- 📫 How to reach me: **[Your Email Here]** | **[LinkedIn Profile]**.
+- 📫 How to reach me: **nitish1977022@gmail.com**.
 
 ---
 
