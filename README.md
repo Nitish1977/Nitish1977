@@ -1,6 +1,6 @@
 # 💻 Hi, I'm Nitish Kumar! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who loves coding, problem-solving, and building scalable web applications.
+Welcome to my GitHub profile! I'm a Full-Stack Developer specializing in enterprise application development with Java, Spring Boot, and modern frontend frameworks. I focus on architecting secure microservices, optimizing databases, and engineering robust end-to-end web solutions.
 
 ---
 
@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who
 ## 📂 **Projects**
 | Name | Tech Stack | Live Demo |
 |------|-----------|-----------|
-| **DocuConverter** | React, Tailwind, Node.js | [Visit](https://lnkd.in/d_U2ycSd) |
+| **DocuConverter** | React, Tailwind, Python | [https://web-production-73a5.up.railway.app/ |
 | **Your-Cart** | React, Tailwind, Vite, Node.js, MongoDB | [Visit](https://your-cart-frontend.vercel.app/) |
 | **THE BIKE SHOP** | React, Tailwind, Vite | [Visit](https://the-bike-shop-alpha.vercel.app/) |
 
