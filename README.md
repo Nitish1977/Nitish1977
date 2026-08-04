@@ -1,4 +1,4 @@
-# 🚴‍♂️ Hi, I'm Nitish Kumar! 👋 
+# 💻 Hi, I'm Nitish Kumar! 👋
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who loves coding, problem-solving, and building scalable web applications.
 
@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who
 
 ## 🔥 **About Me**
 - 💻 Experienced in **Java, Spring Boot, Angular, React, and MERN stack**.
-- 🛠️ Currently building **THE BIKE SHOP** & other exciting web projects.
+- 🛠️ Currently building an **Online Pharmacy Web Application** & other exciting web projects.
 - 🌱 Learning **AI integrations, Microservices, and DevOps**.
 - 📫 How to reach me: **nitish1977022@gmail.com**
-
+- 
 ---
 
 ## 🚀 **Tech Stack**
@@ -50,14 +50,14 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who
 ## 📂 **Projects**
 | Name | Tech Stack | Live Demo |
 |------|-----------|-----------|
+| **DocuConverter** | React, Tailwind, Node.js | [Visit](https://lnkd.in/d_U2ycSd) |
 | **Your-Cart** | React, Tailwind, Vite, Node.js, MongoDB | [Visit](https://your-cart-frontend.vercel.app/) |
 | **THE BIKE SHOP** | React, Tailwind, Vite | [Visit](https://the-bike-shop-alpha.vercel.app/) |
-| **Travel with Us** | HTML, Bootstrap, JavaScript | [Visit](https://nitish1977.github.io/Travel-And-Tourism-Website/) |
 
 ---
 
 ## 📫 **Let's Connect!**
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 🌍 **Portfolio:** [Your Portfolio Link]
-- 🐦 **Twitter:** [Your Twitter Link]
-- 📷 **Instagram:** [Your Instagram Link]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/nitish-kumar-sahu/]
+- 🌍 **Portfolio:** [https://portfolio-woad-nine-20.vercel.app/]
+- 🐦 **Twitter:** [https://x.com/Nitish1977022]
+- 📷 **Instagram:** [https://www.instagram.com/mr._.saaho__/]
