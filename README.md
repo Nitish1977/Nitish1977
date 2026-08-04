@@ -1,14 +1,42 @@
 # 🚴‍♂️ Hi, I'm Nitish Kumar! 👋 
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who loves coding, problem-solving, and building amazing web applications.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who loves coding, problem-solving, and building scalable web applications.
 
 ---
 
 ## 🔥 **About Me**
-- 💻 I work on **MERN, PHP, and Vite-based projects**.
-- 🛠️ Currently building **THE BIKE SHOP** & other exciting projects.
-- 🌱 Learning **Next.js, AI integrations, and DevOps**.
-- 📫 How to reach me: **nitish1977022@gmail.com**.
+- 💻 Experienced in **Java, Spring Boot, Angular, React, and MERN stack**.
+- 🛠️ Currently building **THE BIKE SHOP** & other exciting web projects.
+- 🌱 Learning **AI integrations, Microservices, and DevOps**.
+- 📫 How to reach me: **nitish1977022@gmail.com**
+
+---
+
+## 🚀 **Tech Stack**
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Backend Frameworks & Core Concepts**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- **Core Java Concepts:** OOPs, Collections Framework, Stream API
+
+### **Frontend Frameworks & Styling**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -22,19 +50,14 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who
 ## 📂 **Projects**
 | Name | Tech Stack | Live Demo |
 |------|-----------|-----------|
-| **Your-Cart...** | React, Tailwind, Vite, Nodejs, Mongodb | [Visit](https://your-cart-frontend.vercel.app/) |
+| **Your-Cart** | React, Tailwind, Vite, Node.js, MongoDB | [Visit](https://your-cart-frontend.vercel.app/) |
 | **THE BIKE SHOP** | React, Tailwind, Vite | [Visit](https://the-bike-shop-alpha.vercel.app/) |
-| **Travel with Us**| HTML, Bootstraph, JavaScript | [Visit](https://nitish1977.github.io/Travel-And-Tourism-Website/) |
-
----
-
-## 🚀 **Tech Stack**
-![React](https://img.shields.io/badge/Frontend-React-blue) ![Tailwind CSS](https://img.shields.io/badge/Styling-TailwindCSS-blue) ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+| **Travel with Us** | HTML, Bootstrap, JavaScript | [Visit](https://nitish1977.github.io/Travel-And-Tourism-Website/) |
 
 ---
 
 ## 📫 **Let's Connect!**
+- 💼 **LinkedIn:** [Your LinkedIn Profile]
 - 🌍 **Portfolio:** [Your Portfolio Link]
 - 🐦 **Twitter:** [Your Twitter Link]
 - 📷 **Instagram:** [Your Instagram Link]
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
