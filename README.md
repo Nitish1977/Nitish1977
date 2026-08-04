@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer specializing in enterpr
 ---
 
 ## 📫 **Let's Connect!**
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/nitish-kumar-sahu/]
-- 🌍 **Portfolio:** [https://portfolio-woad-nine-20.vercel.app/]
-- 🐦 **Twitter:** [https://x.com/Nitish1977022]
-- 📷 **Instagram:** [https://www.instagram.com/mr._.saaho__/]
+- 💼 **LinkedIn:** [visit](https://www.linkedin.com/in/nitish-kumar-sahu/)
+- 🌍 **Portfolio:** [visit](https://portfolio-woad-nine-20.vercel.app/)
+- 🐦 **Twitter:** [visit](https://x.com/Nitish1977022)
+- 📷 **Instagram:** [visit](https://www.instagram.com/mr._.saaho__/)
