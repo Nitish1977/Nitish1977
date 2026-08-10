@@ -127,22 +127,18 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+## 📊 GitHub Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://ghchart.rshah.org/6A5ACD/Nitish1977" alt="Nitish1977's GitHub Contribution Chart" width="95%" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,21,23&height=150&section=footer&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
   
   ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-6be6e8ff-5a60-438e-a3f5-ee57fcc4acda.gif" width="200">
   
 </div>
+
+
